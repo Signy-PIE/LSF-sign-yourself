@@ -73,7 +73,7 @@ WORDS = [
     {"id": "famille", "label": "Famille", "video_url": f"{LSF_DICO_VIDEO_BASE}/famille.mp4"},
     {"id": "ami", "label": "Ami", "video_url": f"{LSF_DICO_VIDEO_BASE}/ami.mp4"},
     {"id": "travailler", "label": "Travailler", "video_url": f"{LSF_DICO_VIDEO_BASE}/travailler.mp4"},
-    {"id": "metier", "label": "Métier", "video_url": f"{LSF_DICO_VIDEO_BASE}/metier.mp4"},
+    {"id": "metier", "label": "Métier", "video_url": f"{ELIX_VIDEO_BASE}/metier_nm_1_6.mp4"},
     {"id": "etudiant", "label": "Étudiant", "video_url": f"{LSF_DICO_VIDEO_BASE}/etudiant.mp4"},
     {"id": "ecole", "label": "École", "video_url": f"{LSF_DICO_VIDEO_BASE}/ecole.mp4"},
     {"id": "un", "label": "Un", "video_url": f"{LSF_DICO_VIDEO_BASE}/un.mp4"},
